@@ -1,11 +1,39 @@
+body{
+  margin: 0px;
+}
 
 .upper-part{
-  background-color: rgb(84, 84, 216);
+  background-color: rgb(84, 84, 216); 
 }
+
 .logo{
-  width: 100px;
-  height: 50px;
+  width: 150px;
+  height: 100px;
 }
-span{
+
+.description{
+  color: gray;
+}
+
+.blue{
+  color: rgb(86, 29, 219);
+}
+
+.yellow{
   background-color: yellow;
+}
+
+.scores{
+  margin: 0px;
+  padding: 0px;
+  text size: 12px;
+  font-size: 10px;
+}
+
+th{
+  background-color: blue;
+}
+
+.azure{
+  background-color: rgb(89, 87, 223);
 }
